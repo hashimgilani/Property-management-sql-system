@@ -1,7 +1,7 @@
 # Property Management System — SQL Project
 
 This project is a complete SQL based data management system built for a property management company to track occupancy, leases, maintenance activities, inspections, clients, and operational costs.  
-It demonstrates practical experience in **database design**, **data modeling**, **ETL-style scripting**, and **analytical SQL reporting**.
+It demonstrates practical experience in database design, **data modeling, ETL style scripting, and analytical SQL reporting.
 
 ---
 
